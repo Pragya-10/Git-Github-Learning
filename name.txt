@@ -1,0 +1,6 @@
+0. git init :- initialises repo
+1. git status :- checks all the files that has been changed
+2. git add .
+3. git commit -m "comment"
+
+All the changes that we make are stored in a file .git and we access that by git init :- 1st step
