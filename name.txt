@@ -4,3 +4,7 @@
 3. git commit -m "comment"
 
 All the changes that we make are stored in a file .git and we access that by git init :- 1st step
+
+git restore -- staged name.txt :- removing from commit line after git add 
+
+git log :- intire history 
